@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Azure/azure-verified-modules-tools/main/src/Avm.Authoring/Resources/Schemas/v1/avm-module-metadata.schema.json",
+  "moduleDisplayName": "ALZ Policy Exemptions",
+  "moduleDescription": "AVM Pattern Module for managing Azure Policy exemptions across a tenant or part of a tenant, aligned to Azure Landing Zones.",
+  "canonicalType": "alz-policy-exemptions",
+  "owners": [],
+  "telemetryIdPrefix": "46d3xtrf.ptn.3a7d9d1"
+}
