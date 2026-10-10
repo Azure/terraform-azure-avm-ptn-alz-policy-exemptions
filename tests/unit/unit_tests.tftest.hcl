@@ -1,8 +1,9 @@
 mock_provider "azapi" {}
 
 variables {
-  location = "westus3"
-  name     = "rg-avm-template-test"
+  enable_telemetry = false
+  location         = "westus3"
+  name             = "rg-avm-template-test"
   tags = {
     environment = "test"
   }
